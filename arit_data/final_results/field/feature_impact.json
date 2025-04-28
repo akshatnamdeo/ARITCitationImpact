@@ -1,0 +1,22 @@
+{
+  "reference_diversity": {
+    "mean_correct": 0.26924031107892,
+    "mean_incorrect": 0.22597244675092862,
+    "difference": 0.04326786432799137
+  },
+  "field_impact_factor": {
+    "mean_correct": 0.13045726281245631,
+    "mean_incorrect": 0.12759423878842033,
+    "difference": 0.002863024024035987
+  },
+  "collaboration_info": {
+    "mean_correct": 0.0,
+    "mean_incorrect": 0.0,
+    "difference": 0.0
+  },
+  "time_index": {
+    "mean_correct": 16.43473908146665,
+    "mean_incorrect": 17.848484848484848,
+    "difference": -1.4137457670181988
+  }
+}

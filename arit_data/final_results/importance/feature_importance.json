@@ -1,0 +1,191 @@
+{
+  "correlations": [
+    {
+      "feature": "citation_count",
+      "corr_with_target": 0.9895746498815587,
+      "corr_with_prediction": 0.9925766055407762
+    },
+    {
+      "feature": "reference_diversity",
+      "corr_with_target": 0.15922892283623744,
+      "corr_with_prediction": 0.15897063238648382
+    },
+    {
+      "feature": "field_impact_factor",
+      "corr_with_target": 0.020868791828304315,
+      "corr_with_prediction": 0.02175612382118671
+    },
+    {
+      "feature": "collaboration_info",
+      "corr_with_target": NaN,
+      "corr_with_prediction": NaN
+    },
+    {
+      "feature": "time_index",
+      "corr_with_target": 0.19738668329431133,
+      "corr_with_prediction": 0.19780167826303924
+    }
+  ],
+  "partial_dependence": {
+    "citation_count": [
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 24.183000564575195
+      },
+      {
+        "feature_value": 1.0,
+        "mean_prediction": 24.25057029724121
+      },
+      {
+        "feature_value": 2.0,
+        "mean_prediction": 24.317935943603516
+      },
+      {
+        "feature_value": 5.0,
+        "mean_prediction": 24.521108627319336
+      },
+      {
+        "feature_value": 10.0,
+        "mean_prediction": 24.86020851135254
+      },
+      {
+        "feature_value": 20.0,
+        "mean_prediction": 25.46755027770996
+      },
+      {
+        "feature_value": 50.0,
+        "mean_prediction": 26.552719116210938
+      },
+      {
+        "feature_value": 100.0,
+        "mean_prediction": 27.24056053161621
+      }
+    ],
+    "reference_diversity": [
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.18022537231445
+      },
+      {
+        "feature_value": 0.10232426303854875,
+        "mean_prediction": 34.18243408203125
+      },
+      {
+        "feature_value": 0.2046485260770975,
+        "mean_prediction": 34.184627532958984
+      },
+      {
+        "feature_value": 0.30697278911564624,
+        "mean_prediction": 34.186805725097656
+      },
+      {
+        "feature_value": 0.409297052154195,
+        "mean_prediction": 34.18896484375
+      },
+      {
+        "feature_value": 0.5116213151927438,
+        "mean_prediction": 34.19110107421875
+      },
+      {
+        "feature_value": 0.6139455782312925,
+        "mean_prediction": 34.193233489990234
+      },
+      {
+        "feature_value": 0.7162698412698412,
+        "mean_prediction": 34.19535446166992
+      },
+      {
+        "feature_value": 0.81859410430839,
+        "mean_prediction": 34.19746780395508
+      },
+      {
+        "feature_value": 0.9209183673469388,
+        "mean_prediction": 34.19956970214844
+      }
+    ],
+    "field_impact_factor": [
+      {
+        "feature_value": 0.05822863461779283,
+        "mean_prediction": 34.1876106262207
+      },
+      {
+        "feature_value": 0.08945749977669534,
+        "mean_prediction": 34.18524169921875
+      },
+      {
+        "feature_value": 0.12068636493559787,
+        "mean_prediction": 34.18287658691406
+      },
+      {
+        "feature_value": 0.15191523009450036,
+        "mean_prediction": 34.18050765991211
+      },
+      {
+        "feature_value": 0.1831440952534029,
+        "mean_prediction": 34.178138732910156
+      },
+      {
+        "feature_value": 0.2143729604123054,
+        "mean_prediction": 34.17577362060547
+      },
+      {
+        "feature_value": 0.2456018255712079,
+        "mean_prediction": 34.173404693603516
+      },
+      {
+        "feature_value": 0.2768306907301104,
+        "mean_prediction": 34.17103958129883
+      },
+      {
+        "feature_value": 0.30805955588901296,
+        "mean_prediction": 34.168670654296875
+      },
+      {
+        "feature_value": 0.33928842104791546,
+        "mean_prediction": 34.16630554199219
+      }
+    ],
+    "collaboration_info": [
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      },
+      {
+        "feature_value": 0.0,
+        "mean_prediction": 34.182125091552734
+      }
+    ]
+  }
+}

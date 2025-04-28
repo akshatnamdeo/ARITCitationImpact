@@ -1,0 +1,12 @@
+{
+  "mean_values": {
+    "novelty": 0.4389486312866211,
+    "collaboration": 0.5157122015953064,
+    "timing": 0.572106122970581
+  },
+  "correlations": {
+    "novelty_citations": 0.14883270265932647,
+    "collaboration_citations": 0.09767367123432413,
+    "timing_citations": 0.030472164582693122
+  }
+}

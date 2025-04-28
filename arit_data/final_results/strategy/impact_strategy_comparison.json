@@ -1,0 +1,21 @@
+{
+  "high_impact": {
+    "count": 4630,
+    "mean_citations": 72.10275377969762,
+    "novelty": 0.4572019875049591,
+    "collaboration": 0.5479481816291809,
+    "timing": 0.5737498998641968
+  },
+  "low_impact": {
+    "count": 5044,
+    "mean_citations": 5.215156621728787,
+    "novelty": 0.4221934378147125,
+    "collaboration": 0.48612213134765625,
+    "timing": 0.5705972909927368
+  },
+  "percent_difference": {
+    "novelty": 7.961958564321738,
+    "collaboration": 11.957803933765874,
+    "timing": 0.5509881785263369
+  }
+}

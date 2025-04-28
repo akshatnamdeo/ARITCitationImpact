@@ -1,0 +1,9 @@
+# Ignore __pycache__ everywhere
+__pycache__/
+
+# Ignore everything inside arit_data/
+arit_data/*
+z_main_results
+
+# But DO NOT ignore processed and final_results folders inside arit_data/
+!arit_data/final_results/

@@ -1,0 +1,26 @@
+{
+  "impact_threshold": 111.0,
+  "high_impact_count": 4888,
+  "low_impact_count": 43481,
+  "feature_correlations": {
+    "Reference Diversity": 0.16687062771549316,
+    "Field Impact Factor": 0.019582922063225084,
+    "Collaboration Score": NaN,
+    "Novelty Level": 0.1442603717490065,
+    "Collaboration Strategy": 0.08288921338146203
+  },
+  "high_impact_means": {
+    "reference_diversity": 0.40325459810498054,
+    "field_impact_factor": 0.13252002315166275,
+    "collaboration_info": 0.0,
+    "novelty_level": 0.508400559425354,
+    "collaboration_strategy": 0.6360474824905396
+  },
+  "low_impact_means": {
+    "reference_diversity": 0.241953035183223,
+    "field_impact_factor": 0.13016779269709025,
+    "collaboration_info": 0.0,
+    "novelty_level": 0.4306250810623169,
+    "collaboration_strategy": 0.4986775815486908
+  }
+}

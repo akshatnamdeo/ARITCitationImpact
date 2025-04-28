@@ -1,0 +1,10 @@
+python start_training.py results_20250327_075204 --skip-to-rl
+python start_training.py --folder results_20250327_075204 --rl-high
+python start_training.py --folder best_models --rl-high
+python start_training.py --folder best_models --rl-low
+python start_training.py --pretrain-moe
+python start_training.py --pretrain-low
+python start_training.py --folder results_20250405_163845 --rl-high
+python start_training.py --folder results_20250406_082149 --rl-low
+python arit_analysis.py --folder arit_data/results_20250406_085743/rl_training/high_model --model-type high
+python arit_analysis.py --folder arit_data/results_20250406_085743/rl_training/high_model --model-type high --analyses importance field

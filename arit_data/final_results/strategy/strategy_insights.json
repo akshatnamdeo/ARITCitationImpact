@@ -1,0 +1,23 @@
+{
+  "novelty": {
+    "corr_with_citation_count": 0.14645360882764022,
+    "corr_with_reference_diversity": 0.01754058205263101,
+    "corr_with_field_impact": 0.018300499368154685,
+    "corr_with_predicted_citations": 0.1487065562482033,
+    "corr_with_actual_citations": 0.14883270265932647
+  },
+  "collaboration": {
+    "corr_with_citation_count": 0.09110746980696667,
+    "corr_with_reference_diversity": 0.008664980262079427,
+    "corr_with_field_impact": 0.005844534521396926,
+    "corr_with_predicted_citations": 0.09618190023185143,
+    "corr_with_actual_citations": 0.09767367123432413
+  },
+  "timing": {
+    "corr_with_citation_count": 0.031213114865358438,
+    "corr_with_reference_diversity": 0.06149855622090285,
+    "corr_with_field_impact": -0.05171602875912806,
+    "corr_with_predicted_citations": 0.029884777214580927,
+    "corr_with_actual_citations": 0.030472164582693122
+  }
+}

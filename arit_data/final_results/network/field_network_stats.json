@@ -1,0 +1,637 @@
+{
+  "astro-ph.CO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "astro-ph.EP": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "astro-ph.GA": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "astro-ph.HE": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "astro-ph.IM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "astro-ph.SR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.dis-nn": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.mes-hall": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.mtrl-sci": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.quant-gas": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.soft": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.stat-mech": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cond-mat.str-el": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.AI": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.AR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CC": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CE": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CG": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CL": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CV": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.CY": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.DB": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.DC": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.DL": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.DM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.DS": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.ET": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.FL": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.GR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.GT": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.HC": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.IR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.IT": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.LG": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.LO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.MA": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.MM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.MS": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.NE": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.NI": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.OH": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.OS": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.PL": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.RO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.SD": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.SE": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.SI": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "cs.SY": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "econ.EM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "econ.GN": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "econ.TH": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "eess.AS": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "eess.IV": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "eess.SP": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "eess.SY": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "gr-qc": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "hep-ex": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "hep-lat": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "hep-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "hep-th": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.AG": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.AP": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.AT": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.CA": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.CO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.DG": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.DS": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.FA": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.HO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.MG": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.NA": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.NT": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.OC": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.PR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.RA": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.RT": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.SP": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "math.ST": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "nlin.AO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "nlin.CD": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "nlin.CG": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "nlin.PS": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "nucl-ex": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "nucl-th": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.acc-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.ao-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.app-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.bio-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.chem-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.class-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.comp-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.data-an": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.ed-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.flu-dyn": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.geo-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.hist-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.ins-det": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.med-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.optics": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.plasm-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.soc-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "physics.space-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.BM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.CB": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.GN": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.MN": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.NC": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.PE": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.QM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.SC": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-bio.TO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.CP": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.GN": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.MF": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.PM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.PR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.RM": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.ST": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "q-fin.TR": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "quant-ph": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "stat.AP": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "stat.CO": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "stat.ME": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "stat.ML": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  },
+  "stat.OT": {
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "centrality": 0.0
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "true_field": "cond-mat.stat-mech",
+    "pred_field": "q-fin.RM",
+    "count": 127,
+    "rate": 0.8193548387096774
+  },
+  {
+    "true_field": "physics.app-ph",
+    "pred_field": "q-fin.RM",
+    "count": 78,
+    "rate": 1.0
+  },
+  {
+    "true_field": "cs.DL",
+    "pred_field": "math.OC",
+    "count": 58,
+    "rate": 0.9206349206349206
+  },
+  {
+    "true_field": "cond-mat.soft",
+    "pred_field": "math.OC",
+    "count": 56,
+    "rate": 0.6511627906976745
+  },
+  {
+    "true_field": "hep-lat",
+    "pred_field": "stat.ME",
+    "count": 42,
+    "rate": 1.0
+  },
+  {
+    "true_field": "q-bio.NC",
+    "pred_field": "cs.PL",
+    "count": 37,
+    "rate": 1.0
+  },
+  {
+    "true_field": "astro-ph.CO",
+    "pred_field": "cs.PL",
+    "count": 35,
+    "rate": 0.9210526315789473
+  },
+  {
+    "true_field": "physics.ao-ph",
+    "pred_field": "q-bio.QM",
+    "count": 35,
+    "rate": 0.7142857142857143
+  },
+  {
+    "true_field": "physics.optics",
+    "pred_field": "cs.PL",
+    "count": 31,
+    "rate": 0.9393939393939394
+  },
+  {
+    "true_field": "stat.CO",
+    "pred_field": "q-fin.RM",
+    "count": 28,
+    "rate": 1.0
+  }
+]

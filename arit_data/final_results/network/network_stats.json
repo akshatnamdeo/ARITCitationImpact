@@ -1,0 +1,829 @@
+{
+  "ref_actual_correlation": 0.2690618661514082,
+  "ref_pred_correlation": 0.26837862707595667,
+  "diversity_actual_correlation": 0.15922892283623744,
+  "diversity_pred_correlation": 0.15897063238648382,
+  "mean_references": 33.29749844945214,
+  "mean_citations": 20.46650816621873,
+  "field_stats": {
+    "math.NA": {
+      "paper_count": 63,
+      "mean_references": 36.20634920634921,
+      "mean_citations": 14.80952380952381,
+      "mean_diversity": 0.19083778254503753,
+      "mean_actual_future_citations": 22.28968253968254,
+      "mean_predicted_future_citations": 21.860315322875977,
+      "ref_citation_correlation": 0.20887280908808392
+    },
+    "math.ST": {
+      "paper_count": 618,
+      "mean_references": 31.828478964401295,
+      "mean_citations": 11.493527508090615,
+      "mean_diversity": 0.33136644881728633,
+      "mean_actual_future_citations": 16.932443365695793,
+      "mean_predicted_future_citations": 16.798601150512695,
+      "ref_citation_correlation": 0.290499179973658
+    },
+    "cond-mat.mtrl-sci": {
+      "paper_count": 48,
+      "mean_references": 42.625,
+      "mean_citations": 18.041666666666668,
+      "mean_diversity": 0.11534366343490306,
+      "mean_actual_future_citations": 29.583333333333332,
+      "mean_predicted_future_citations": 29.085351943969727,
+      "ref_citation_correlation": 0.1149771623874649
+    },
+    "physics.comp-ph": {
+      "paper_count": 125,
+      "mean_references": 32.712,
+      "mean_citations": 21.616,
+      "mean_diversity": 0.14802108939321063,
+      "mean_actual_future_citations": 31.144,
+      "mean_predicted_future_citations": 30.832590103149414,
+      "ref_citation_correlation": 0.4362261318982485
+    },
+    "cs.CL": {
+      "paper_count": 1370,
+      "mean_references": 31.65912408759124,
+      "mean_citations": 22.913138686131386,
+      "mean_diversity": 0.30796042697708126,
+      "mean_actual_future_citations": 44.611496350364966,
+      "mean_predicted_future_citations": 43.5134162902832,
+      "ref_citation_correlation": 0.2915798948233453
+    },
+    "q-fin.ST": {
+      "paper_count": 125,
+      "mean_references": 47.384,
+      "mean_citations": 17.432,
+      "mean_diversity": 0.3192548166339013,
+      "mean_actual_future_citations": 28.36,
+      "mean_predicted_future_citations": 28.042316436767578,
+      "ref_citation_correlation": 0.622556126320828
+    },
+    "hep-ex": {
+      "paper_count": 10,
+      "mean_references": 30.0,
+      "mean_citations": 33.7,
+      "mean_diversity": 0.2927945704290467,
+      "mean_actual_future_citations": 77.925,
+      "mean_predicted_future_citations": 76.90613555908203,
+      "ref_citation_correlation": 0.023988032505473662
+    },
+    "cs.AI": {
+      "paper_count": 347,
+      "mean_references": 27.755043227665706,
+      "mean_citations": 18.769452449567723,
+      "mean_diversity": 0.1851038981470385,
+      "mean_actual_future_citations": 32.945244956772335,
+      "mean_predicted_future_citations": 32.631752014160156,
+      "ref_citation_correlation": 0.3766199293985336
+    },
+    "cs.CV": {
+      "paper_count": 1197,
+      "mean_references": 36.000835421888056,
+      "mean_citations": 29.664160401002505,
+      "mean_diversity": 0.2647699785068203,
+      "mean_actual_future_citations": 60.016917293233085,
+      "mean_predicted_future_citations": 58.31598663330078,
+      "ref_citation_correlation": 0.2382100315096755
+    },
+    "physics.chem-ph": {
+      "paper_count": 24,
+      "mean_references": 51.208333333333336,
+      "mean_citations": 24.541666666666668,
+      "mean_diversity": 0.2698757597621234,
+      "mean_actual_future_citations": 36.5,
+      "mean_predicted_future_citations": 36.18986129760742,
+      "ref_citation_correlation": 0.4122850479033977
+    },
+    "cs.RO": {
+      "paper_count": 511,
+      "mean_references": 30.538160469667318,
+      "mean_citations": 20.882583170254403,
+      "mean_diversity": 0.27288651230167815,
+      "mean_actual_future_citations": 32.42270058708415,
+      "mean_predicted_future_citations": 31.856245040893555,
+      "ref_citation_correlation": 0.2392244213223584
+    },
+    "cs.LG": {
+      "paper_count": 1202,
+      "mean_references": 33.78702163061564,
+      "mean_citations": 24.630615640599,
+      "mean_diversity": 0.3603321962156465,
+      "mean_actual_future_citations": 51.287645590682196,
+      "mean_predicted_future_citations": 50.174766540527344,
+      "ref_citation_correlation": 0.29032731838171416
+    },
+    "cs.NE": {
+      "paper_count": 367,
+      "mean_references": 32.253405994550405,
+      "mean_citations": 22.411444141689373,
+      "mean_diversity": 0.2547705952189563,
+      "mean_actual_future_citations": 42.72820163487739,
+      "mean_predicted_future_citations": 42.41754150390625,
+      "ref_citation_correlation": 0.24799667372372286
+    },
+    "cs.DC": {
+      "paper_count": 29,
+      "mean_references": 25.75862068965517,
+      "mean_citations": 19.03448275862069,
+      "mean_diversity": 0.2782966155810983,
+      "mean_actual_future_citations": 26.870689655172413,
+      "mean_predicted_future_citations": 26.533588409423828,
+      "ref_citation_correlation": 0.01595795692652278
+    },
+    "math.PR": {
+      "paper_count": 78,
+      "mean_references": 26.756410256410255,
+      "mean_citations": 9.615384615384615,
+      "mean_diversity": 0.25124309535354716,
+      "mean_actual_future_citations": 12.948717948717949,
+      "mean_predicted_future_citations": 13.093387603759766,
+      "ref_citation_correlation": 0.34899495743837994
+    },
+    "math.OC": {
+      "paper_count": 524,
+      "mean_references": 31.78053435114504,
+      "mean_citations": 14.221374045801527,
+      "mean_diversity": 0.19745390821305187,
+      "mean_actual_future_citations": 21.69942748091603,
+      "mean_predicted_future_citations": 21.328718185424805,
+      "ref_citation_correlation": 0.27532722188387965
+    },
+    "cs.HC": {
+      "paper_count": 434,
+      "mean_references": 35.3110599078341,
+      "mean_citations": 17.81566820276498,
+      "mean_diversity": 0.15402602287829398,
+      "mean_actual_future_citations": 26.920506912442395,
+      "mean_predicted_future_citations": 26.717458724975586,
+      "ref_citation_correlation": 0.37501468306951463
+    },
+    "q-bio.QM": {
+      "paper_count": 294,
+      "mean_references": 34.60884353741496,
+      "mean_citations": 16.125850340136054,
+      "mean_diversity": 0.14089705466733202,
+      "mean_actual_future_citations": 26.60969387755102,
+      "mean_predicted_future_citations": 26.287128448486328,
+      "ref_citation_correlation": 0.45226996026294336
+    },
+    "physics.data-an": {
+      "paper_count": 128,
+      "mean_references": 27.6015625,
+      "mean_citations": 16.8359375,
+      "mean_diversity": 0.22514251408893732,
+      "mean_actual_future_citations": 25.833984375,
+      "mean_predicted_future_citations": 25.466373443603516,
+      "ref_citation_correlation": 0.35867592376247204
+    },
+    "q-fin.PM": {
+      "paper_count": 7,
+      "mean_references": 32.714285714285715,
+      "mean_citations": 19.142857142857142,
+      "mean_diversity": 0.16578483245149914,
+      "mean_actual_future_citations": 25.821428571428573,
+      "mean_predicted_future_citations": 26.359722137451172,
+      "ref_citation_correlation": 0.5936912396637225
+    },
+    "cs.IR": {
+      "paper_count": 67,
+      "mean_references": 32.47761194029851,
+      "mean_citations": 14.223880597014926,
+      "mean_diversity": 0.23470922369247926,
+      "mean_actual_future_citations": 24.861940298507463,
+      "mean_predicted_future_citations": 25.326751708984375,
+      "ref_citation_correlation": 0.13904115036341044
+    },
+    "cs.CR": {
+      "paper_count": 70,
+      "mean_references": 34.72857142857143,
+      "mean_citations": 23.1,
+      "mean_diversity": 0.22561780171230544,
+      "mean_actual_future_citations": 47.339285714285715,
+      "mean_predicted_future_citations": 47.25689697265625,
+      "ref_citation_correlation": 0.5030687476354491
+    },
+    "stat.ME": {
+      "paper_count": 155,
+      "mean_references": 33.44516129032258,
+      "mean_citations": 11.64516129032258,
+      "mean_diversity": 0.301406074556891,
+      "mean_actual_future_citations": 21.611290322580643,
+      "mean_predicted_future_citations": 21.312604904174805,
+      "ref_citation_correlation": 0.17027799418945436
+    },
+    "econ.EM": {
+      "paper_count": 24,
+      "mean_references": 38.875,
+      "mean_citations": 19.25,
+      "mean_diversity": 0.4236477383896064,
+      "mean_actual_future_citations": 49.958333333333336,
+      "mean_predicted_future_citations": 48.78325271606445,
+      "ref_citation_correlation": 0.3250083612245095
+    },
+    "stat.CO": {
+      "paper_count": 28,
+      "mean_references": 30.857142857142858,
+      "mean_citations": 15.535714285714286,
+      "mean_diversity": 0.2062084032747298,
+      "mean_actual_future_citations": 23.8125,
+      "mean_predicted_future_citations": 23.385377883911133,
+      "ref_citation_correlation": 0.19871704129501017
+    },
+    "cs.SY": {
+      "paper_count": 19,
+      "mean_references": 23.57894736842105,
+      "mean_citations": 17.36842105263158,
+      "mean_diversity": 0.08052631578947368,
+      "mean_actual_future_citations": 26.855263157894736,
+      "mean_predicted_future_citations": 26.1607608795166,
+      "ref_citation_correlation": 0.34014130670882886
+    },
+    "eess.AS": {
+      "paper_count": 53,
+      "mean_references": 29.62264150943396,
+      "mean_citations": 21.60377358490566,
+      "mean_diversity": 0.32930400164957674,
+      "mean_actual_future_citations": 34.90094339622642,
+      "mean_predicted_future_citations": 34.47914505004883,
+      "ref_citation_correlation": 0.38616033505678377
+    },
+    "astro-ph.IM": {
+      "paper_count": 34,
+      "mean_references": 13.088235294117647,
+      "mean_citations": 11.382352941176471,
+      "mean_diversity": 0.09681372549019608,
+      "mean_actual_future_citations": 26.16176470588235,
+      "mean_predicted_future_citations": 26.099132537841797,
+      "ref_citation_correlation": -0.03770930914919122
+    },
+    "cond-mat.stat-mech": {
+      "paper_count": 38,
+      "mean_references": 29.0,
+      "mean_citations": 11.657894736842104,
+      "mean_diversity": 0.22586982516525284,
+      "mean_actual_future_citations": 15.763157894736842,
+      "mean_predicted_future_citations": 15.9295072555542,
+      "ref_citation_correlation": 0.39315550333193994
+    },
+    "stat.ML": {
+      "paper_count": 193,
+      "mean_references": 37.52849740932643,
+      "mean_citations": 23.39896373056995,
+      "mean_diversity": 0.37150154852383355,
+      "mean_actual_future_citations": 45.12435233160622,
+      "mean_predicted_future_citations": 43.8594856262207,
+      "ref_citation_correlation": 0.09132659450986298
+    },
+    "cs.CY": {
+      "paper_count": 76,
+      "mean_references": 32.06578947368421,
+      "mean_citations": 17.644736842105264,
+      "mean_diversity": 0.17394083521261822,
+      "mean_actual_future_citations": 24.888157894736842,
+      "mean_predicted_future_citations": 24.793243408203125,
+      "ref_citation_correlation": 0.18380699974052475
+    },
+    "eess.IV": {
+      "paper_count": 130,
+      "mean_references": 31.26923076923077,
+      "mean_citations": 20.1,
+      "mean_diversity": 0.2457209508677338,
+      "mean_actual_future_citations": 37.31923076923077,
+      "mean_predicted_future_citations": 36.83061218261719,
+      "ref_citation_correlation": 0.38449501087648896
+    },
+    "q-bio.PE": {
+      "paper_count": 37,
+      "mean_references": 35.62162162162162,
+      "mean_citations": 14.567567567567568,
+      "mean_diversity": 0.1804578813507385,
+      "mean_actual_future_citations": 19.635135135135137,
+      "mean_predicted_future_citations": 20.448598861694336,
+      "ref_citation_correlation": 0.2741623333856738
+    },
+    "physics.bio-ph": {
+      "paper_count": 24,
+      "mean_references": 31.041666666666668,
+      "mean_citations": 14.791666666666666,
+      "mean_diversity": 0.07291666666666667,
+      "mean_actual_future_citations": 19.916666666666668,
+      "mean_predicted_future_citations": 20.132850646972656,
+      "ref_citation_correlation": 0.5746967805134499
+    },
+    "stat.AP": {
+      "paper_count": 33,
+      "mean_references": 28.757575757575758,
+      "mean_citations": 10.424242424242424,
+      "mean_diversity": 0.17739813096955953,
+      "mean_actual_future_citations": 16.348484848484848,
+      "mean_predicted_future_citations": 16.432016372680664,
+      "ref_citation_correlation": 0.7225970817344445
+    },
+    "physics.flu-dyn": {
+      "paper_count": 42,
+      "mean_references": 26.238095238095237,
+      "mean_citations": 13.80952380952381,
+      "mean_diversity": 0.12999706055261612,
+      "mean_actual_future_citations": 18.672619047619047,
+      "mean_predicted_future_citations": 18.6094970703125,
+      "ref_citation_correlation": 0.47991848326005954
+    },
+    "quant-ph": {
+      "paper_count": 54,
+      "mean_references": 31.22222222222222,
+      "mean_citations": 19.48148148148148,
+      "mean_diversity": 0.18057209305301491,
+      "mean_actual_future_citations": 26.39814814814815,
+      "mean_predicted_future_citations": 26.682113647460938,
+      "ref_citation_correlation": 0.2520601728023641
+    },
+    "eess.SP": {
+      "paper_count": 59,
+      "mean_references": 33.74576271186441,
+      "mean_citations": 19.389830508474578,
+      "mean_diversity": 0.17491878167898806,
+      "mean_actual_future_citations": 32.58898305084746,
+      "mean_predicted_future_citations": 31.586477279663086,
+      "ref_citation_correlation": 0.16919627786414462
+    },
+    "eess.SY": {
+      "paper_count": 86,
+      "mean_references": 35.25581395348837,
+      "mean_citations": 16.488372093023255,
+      "mean_diversity": 0.2774047750709945,
+      "mean_actual_future_citations": 23.63953488372093,
+      "mean_predicted_future_citations": 23.16745376586914,
+      "ref_citation_correlation": 0.565893440772509
+    },
+    "nucl-th": {
+      "paper_count": 7,
+      "mean_references": 34.857142857142854,
+      "mean_citations": 16.428571428571427,
+      "mean_diversity": 0.40095238095238095,
+      "mean_actual_future_citations": 22.178571428571427,
+      "mean_predicted_future_citations": 21.900543212890625,
+      "ref_citation_correlation": 0.7380457802625884
+    },
+    "q-bio.NC": {
+      "paper_count": 49,
+      "mean_references": 40.265306122448976,
+      "mean_citations": 14.612244897959183,
+      "mean_diversity": 0.2503949772066689,
+      "mean_actual_future_citations": 22.586734693877553,
+      "mean_predicted_future_citations": 22.340713500976562,
+      "ref_citation_correlation": 0.2458890743970157
+    },
+    "cs.MA": {
+      "paper_count": 22,
+      "mean_references": 32.5,
+      "mean_citations": 25.863636363636363,
+      "mean_diversity": 0.3348342731267608,
+      "mean_actual_future_citations": 38.80681818181818,
+      "mean_predicted_future_citations": 38.16517639160156,
+      "ref_citation_correlation": 0.27271619888962195
+    },
+    "cs.IT": {
+      "paper_count": 42,
+      "mean_references": 39.38095238095238,
+      "mean_citations": 19.785714285714285,
+      "mean_diversity": 0.3724386104613516,
+      "mean_actual_future_citations": 40.541666666666664,
+      "mean_predicted_future_citations": 38.643470764160156,
+      "ref_citation_correlation": 0.33260021760611047
+    },
+    "cond-mat.soft": {
+      "paper_count": 19,
+      "mean_references": 46.36842105263158,
+      "mean_citations": 11.736842105263158,
+      "mean_diversity": 0.06578947368421052,
+      "mean_actual_future_citations": 15.921052631578947,
+      "mean_predicted_future_citations": 16.174116134643555,
+      "ref_citation_correlation": 0.18151101082545168
+    },
+    "gr-qc": {
+      "paper_count": 8,
+      "mean_references": 54.25,
+      "mean_citations": 18.625,
+      "mean_diversity": 0.17708333333333334,
+      "mean_actual_future_citations": 25.25,
+      "mean_predicted_future_citations": 25.40837287902832,
+      "ref_citation_correlation": 0.7622382232432339
+    },
+    "physics.ao-ph": {
+      "paper_count": 25,
+      "mean_references": 28.0,
+      "mean_citations": 16.68,
+      "mean_diversity": 0.10444444444444446,
+      "mean_actual_future_citations": 22.98,
+      "mean_predicted_future_citations": 22.551481246948242,
+      "ref_citation_correlation": 0.09538636962827948
+    },
+    "cs.DS": {
+      "paper_count": 33,
+      "mean_references": 48.45454545454545,
+      "mean_citations": 30.272727272727273,
+      "mean_diversity": 0.47222490217727847,
+      "mean_actual_future_citations": 45.34090909090909,
+      "mean_predicted_future_citations": 44.65631103515625,
+      "ref_citation_correlation": 0.13855070575628142
+    },
+    "econ.GN": {
+      "paper_count": 5,
+      "mean_references": 19.6,
+      "mean_citations": 6.4,
+      "mean_diversity": 0.1,
+      "mean_actual_future_citations": 8.6,
+      "mean_predicted_future_citations": 8.641948699951172,
+      "ref_citation_correlation": -0.6800850084172374
+    },
+    "cs.GT": {
+      "paper_count": 23,
+      "mean_references": 34.26086956521739,
+      "mean_citations": 17.347826086956523,
+      "mean_diversity": 0.2517611335134392,
+      "mean_actual_future_citations": 27.119565217391305,
+      "mean_predicted_future_citations": 26.638442993164062,
+      "ref_citation_correlation": -0.005530462121253897
+    },
+    "math.AP": {
+      "paper_count": 31,
+      "mean_references": 28.903225806451612,
+      "mean_citations": 10.838709677419354,
+      "mean_diversity": 0.15354838709677418,
+      "mean_actual_future_citations": 14.637096774193548,
+      "mean_predicted_future_citations": 14.836777687072754,
+      "ref_citation_correlation": 0.36442034682614116
+    },
+    "physics.med-ph": {
+      "paper_count": 20,
+      "mean_references": 34.3,
+      "mean_citations": 17.1,
+      "mean_diversity": 0.058333333333333334,
+      "mean_actual_future_citations": 25.625,
+      "mean_predicted_future_citations": 26.037704467773438,
+      "ref_citation_correlation": 0.09272544170806514
+    },
+    "hep-lat": {
+      "paper_count": 6,
+      "mean_references": 24.833333333333332,
+      "mean_citations": 12.666666666666666,
+      "mean_diversity": 0.23111111111111113,
+      "mean_actual_future_citations": 17.166666666666668,
+      "mean_predicted_future_citations": 17.462812423706055,
+      "ref_citation_correlation": 0.4528441329349501
+    },
+    "cs.SD": {
+      "paper_count": 62,
+      "mean_references": 29.419354838709676,
+      "mean_citations": 18.112903225806452,
+      "mean_diversity": 0.33223149088900467,
+      "mean_actual_future_citations": 24.97983870967742,
+      "mean_predicted_future_citations": 24.90635108947754,
+      "ref_citation_correlation": 0.42111148511306284
+    },
+    "math.DS": {
+      "paper_count": 19,
+      "mean_references": 53.05263157894737,
+      "mean_citations": 17.68421052631579,
+      "mean_diversity": 0.26080081155269125,
+      "mean_actual_future_citations": 23.82894736842105,
+      "mean_predicted_future_citations": 23.88751792907715,
+      "ref_citation_correlation": 0.40566314142124316
+    },
+    "physics.soc-ph": {
+      "paper_count": 43,
+      "mean_references": 43.81395348837209,
+      "mean_citations": 19.53488372093023,
+      "mean_diversity": 0.1875653245794442,
+      "mean_actual_future_citations": 35.145348837209305,
+      "mean_predicted_future_citations": 35.2359733581543,
+      "ref_citation_correlation": 0.3517085116120486
+    },
+    "cs.SE": {
+      "paper_count": 41,
+      "mean_references": 28.804878048780488,
+      "mean_citations": 18.4390243902439,
+      "mean_diversity": 0.1814141071966275,
+      "mean_actual_future_citations": 33.51219512195122,
+      "mean_predicted_future_citations": 34.18148422241211,
+      "ref_citation_correlation": 0.1282411122118608
+    },
+    "physics.optics": {
+      "paper_count": 22,
+      "mean_references": 39.40909090909091,
+      "mean_citations": 23.636363636363637,
+      "mean_diversity": 0.21352413019079686,
+      "mean_actual_future_citations": 57.76136363636363,
+      "mean_predicted_future_citations": 56.10879898071289,
+      "ref_citation_correlation": 0.11738544863263778
+    },
+    "physics.ins-det": {
+      "paper_count": 15,
+      "mean_references": 22.0,
+      "mean_citations": 12.133333333333333,
+      "mean_diversity": 0.13909776190809586,
+      "mean_actual_future_citations": 16.583333333333332,
+      "mean_predicted_future_citations": 16.836299896240234,
+      "ref_citation_correlation": 0.4223250092152938
+    },
+    "cs.NI": {
+      "paper_count": 14,
+      "mean_references": 23.0,
+      "mean_citations": 20.785714285714285,
+      "mean_diversity": 0.0,
+      "mean_actual_future_citations": 28.196428571428573,
+      "mean_predicted_future_citations": 27.895092010498047,
+      "ref_citation_correlation": 0.10140989704737477
+    },
+    "hep-ph": {
+      "paper_count": 17,
+      "mean_references": 43.8235294117647,
+      "mean_citations": 23.41176470588235,
+      "mean_diversity": 0.4976995231670724,
+      "mean_actual_future_citations": 38.69117647058823,
+      "mean_predicted_future_citations": 38.10860824584961,
+      "ref_citation_correlation": 0.2687560475283097
+    },
+    "cs.ET": {
+      "paper_count": 19,
+      "mean_references": 36.8421052631579,
+      "mean_citations": 21.68421052631579,
+      "mean_diversity": 0.1638547426767978,
+      "mean_actual_future_citations": 42.421052631578945,
+      "mean_predicted_future_citations": 41.12192916870117,
+      "ref_citation_correlation": 0.8519880958904775
+    },
+    "q-bio.BM": {
+      "paper_count": 19,
+      "mean_references": 48.05263157894737,
+      "mean_citations": 31.526315789473685,
+      "mean_diversity": 0.27271229464151214,
+      "mean_actual_future_citations": 46.776315789473685,
+      "mean_predicted_future_citations": 45.9572868347168,
+      "ref_citation_correlation": 0.2969900551590683
+    },
+    "cs.CG": {
+      "paper_count": 7,
+      "mean_references": 42.714285714285715,
+      "mean_citations": 6.285714285714286,
+      "mean_diversity": 0.4354166666666667,
+      "mean_actual_future_citations": 8.392857142857142,
+      "mean_predicted_future_citations": 8.090065002441406,
+      "ref_citation_correlation": 0.13570128813676288
+    },
+    "physics.plasm-ph": {
+      "paper_count": 13,
+      "mean_references": 49.0,
+      "mean_citations": 17.23076923076923,
+      "mean_diversity": 0.19309262166405022,
+      "mean_actual_future_citations": 30.115384615384617,
+      "mean_predicted_future_citations": 29.540180206298828,
+      "ref_citation_correlation": 0.8943336580814553
+    },
+    "cs.PL": {
+      "paper_count": 6,
+      "mean_references": 34.666666666666664,
+      "mean_citations": 16.666666666666668,
+      "mean_diversity": 0.2991156462585034,
+      "mean_actual_future_citations": 22.5,
+      "mean_predicted_future_citations": 22.282052993774414,
+      "ref_citation_correlation": -0.003163116159606278
+    },
+    "q-fin.CP": {
+      "paper_count": 14,
+      "mean_references": 36.357142857142854,
+      "mean_citations": 19.357142857142858,
+      "mean_diversity": 0.10771474962707013,
+      "mean_actual_future_citations": 26.285714285714285,
+      "mean_predicted_future_citations": 26.24471664428711,
+      "ref_citation_correlation": 0.4437895285149164
+    },
+    "physics.app-ph": {
+      "paper_count": 11,
+      "mean_references": 16.636363636363637,
+      "mean_citations": 14.818181818181818,
+      "mean_diversity": 0.060606060606060615,
+      "mean_actual_future_citations": 19.977272727272727,
+      "mean_predicted_future_citations": 20.212053298950195,
+      "ref_citation_correlation": 0.382392787528164
+    },
+    "physics.geo-ph": {
+      "paper_count": 12,
+      "mean_references": 47.0,
+      "mean_citations": 24.083333333333332,
+      "mean_diversity": 0.15157312925170066,
+      "mean_actual_future_citations": 42.1875,
+      "mean_predicted_future_citations": 41.02607345581055,
+      "ref_citation_correlation": 0.08548341928602962
+    },
+    "astro-ph.GA": {
+      "paper_count": 5,
+      "mean_references": 28.4,
+      "mean_citations": 11.8,
+      "mean_diversity": 0.16666666666666666,
+      "mean_actual_future_citations": 15.6,
+      "mean_predicted_future_citations": 15.120859146118164,
+      "ref_citation_correlation": 0.42944753748217857
+    },
+    "cs.CE": {
+      "paper_count": 16,
+      "mean_references": 31.1875,
+      "mean_citations": 21.125,
+      "mean_diversity": 0.0,
+      "mean_actual_future_citations": 37.46875,
+      "mean_predicted_future_citations": 36.695762634277344,
+      "ref_citation_correlation": 0.10871306979050681
+    },
+    "stat.OT": {
+      "paper_count": 7,
+      "mean_references": 36.714285714285715,
+      "mean_citations": 29.571428571428573,
+      "mean_diversity": 0.2123809523809524,
+      "mean_actual_future_citations": 43.92857142857143,
+      "mean_predicted_future_citations": 42.859439849853516,
+      "ref_citation_correlation": -0.47277761409825125
+    },
+    "cs.DB": {
+      "paper_count": 13,
+      "mean_references": 28.615384615384617,
+      "mean_citations": 6.615384615384615,
+      "mean_diversity": 0.17022299115724723,
+      "mean_actual_future_citations": 9.0,
+      "mean_predicted_future_citations": 9.110108375549316,
+      "ref_citation_correlation": -0.03989490723824661
+    },
+    "astro-ph.CO": {
+      "paper_count": 12,
+      "mean_references": 28.75,
+      "mean_citations": 17.333333333333332,
+      "mean_diversity": 0.2658861384059797,
+      "mean_actual_future_citations": 31.020833333333332,
+      "mean_predicted_future_citations": 29.696632385253906,
+      "ref_citation_correlation": 0.3335332683725118
+    },
+    "astro-ph.SR": {
+      "paper_count": 8,
+      "mean_references": 33.875,
+      "mean_citations": 10.0,
+      "mean_diversity": 0.0625,
+      "mean_actual_future_citations": 13.5,
+      "mean_predicted_future_citations": 13.526128768920898,
+      "ref_citation_correlation": 0.5246743376755477
+    },
+    "cond-mat.mes-hall": {
+      "paper_count": 5,
+      "mean_references": 39.6,
+      "mean_citations": 15.8,
+      "mean_diversity": 0.14693877551020407,
+      "mean_actual_future_citations": 21.45,
+      "mean_predicted_future_citations": 21.53396224975586,
+      "ref_citation_correlation": -0.8620152683804025
+    },
+    "q-bio.GN": {
+      "paper_count": 13,
+      "mean_references": 48.61538461538461,
+      "mean_citations": 22.76923076923077,
+      "mean_diversity": 0.16266025641025642,
+      "mean_actual_future_citations": 30.692307692307693,
+      "mean_predicted_future_citations": 30.37175178527832,
+      "ref_citation_correlation": 0.8275845045518454
+    },
+    "cs.DL": {
+      "paper_count": 6,
+      "mean_references": 30.333333333333332,
+      "mean_citations": 11.833333333333334,
+      "mean_diversity": 0.21296296296296294,
+      "mean_actual_future_citations": 15.916666666666666,
+      "mean_predicted_future_citations": 15.806381225585938,
+      "ref_citation_correlation": 0.6170034455591389
+    },
+    "cs.SI": {
+      "paper_count": 58,
+      "mean_references": 39.43103448275862,
+      "mean_citations": 16.982758620689655,
+      "mean_diversity": 0.19924178610363116,
+      "mean_actual_future_citations": 29.25,
+      "mean_predicted_future_citations": 28.2460880279541,
+      "ref_citation_correlation": 0.14097677588139626
+    },
+    "q-fin.TR": {
+      "paper_count": 8,
+      "mean_references": 21.125,
+      "mean_citations": 8.375,
+      "mean_diversity": 0.26041666666666663,
+      "mean_actual_future_citations": 11.25,
+      "mean_predicted_future_citations": 11.412626266479492,
+      "ref_citation_correlation": -0.2647566913849011
+    },
+    "cs.LO": {
+      "paper_count": 12,
+      "mean_references": 29.0,
+      "mean_citations": 12.583333333333334,
+      "mean_diversity": 0.125,
+      "mean_actual_future_citations": 16.9375,
+      "mean_predicted_future_citations": 17.115808486938477,
+      "ref_citation_correlation": 0.32176127724284165
+    },
+    "cs.DM": {
+      "paper_count": 6,
+      "mean_references": 36.333333333333336,
+      "mean_citations": 21.5,
+      "mean_diversity": 0.0,
+      "mean_actual_future_citations": 31.666666666666668,
+      "mean_predicted_future_citations": 30.948972702026367,
+      "ref_citation_correlation": 0.9691942455478332
+    },
+    "astro-ph.EP": {
+      "paper_count": 7,
+      "mean_references": 45.142857142857146,
+      "mean_citations": 34.57142857142857,
+      "mean_diversity": 0.09523809523809525,
+      "mean_actual_future_citations": 46.607142857142854,
+      "mean_predicted_future_citations": 45.96928024291992,
+      "ref_citation_correlation": 0.5036692352691419
+    },
+    "cs.AR": {
+      "paper_count": 9,
+      "mean_references": 64.44444444444444,
+      "mean_citations": 14.777777777777779,
+      "mean_diversity": 0.31685359696755705,
+      "mean_actual_future_citations": 20.166666666666668,
+      "mean_predicted_future_citations": 19.48828887939453,
+      "ref_citation_correlation": 0.9757152216270958
+    },
+    "q-bio.MN": {
+      "paper_count": 8,
+      "mean_references": 32.0,
+      "mean_citations": 8.5,
+      "mean_diversity": 0.0,
+      "mean_actual_future_citations": 11.5,
+      "mean_predicted_future_citations": 12.102112770080566,
+      "ref_citation_correlation": -0.038077993781991365
+    },
+    "cs.MM": {
+      "paper_count": 10,
+      "mean_references": 37.8,
+      "mean_citations": 12.9,
+      "mean_diversity": 0.30763945578231294,
+      "mean_actual_future_citations": 17.825,
+      "mean_predicted_future_citations": 17.93423080444336,
+      "ref_citation_correlation": 0.4507837216086169
+    },
+    "math.AG": {
+      "paper_count": 5,
+      "mean_references": 37.4,
+      "mean_citations": 15.2,
+      "mean_diversity": 0.3442680776014109,
+      "mean_actual_future_citations": 20.2,
+      "mean_predicted_future_citations": 20.10390853881836,
+      "ref_citation_correlation": 0.51056537077053
+    },
+    "cs.GR": {
+      "paper_count": 10,
+      "mean_references": 39.4,
+      "mean_citations": 15.0,
+      "mean_diversity": 0.22793209876543213,
+      "mean_actual_future_citations": 20.5,
+      "mean_predicted_future_citations": 20.621959686279297,
+      "ref_citation_correlation": 0.46436047766555105
+    },
+    "nlin.AO": {
+      "paper_count": 8,
+      "mean_references": 48.0,
+      "mean_citations": 6.125,
+      "mean_diversity": 0.08333333333333334,
+      "mean_actual_future_citations": 8.28125,
+      "mean_predicted_future_citations": 8.747419357299805,
+      "ref_citation_correlation": 0.7173372960603428
+    },
+    "cond-mat.dis-nn": {
+      "paper_count": 10,
+      "mean_references": 28.4,
+      "mean_citations": 16.1,
+      "mean_diversity": 0.2693333333333333,
+      "mean_actual_future_citations": 27.65,
+      "mean_predicted_future_citations": 27.19489097595215,
+      "ref_citation_correlation": 0.2859938766900236
+    },
+    "q-fin.RM": {
+      "paper_count": 6,
+      "mean_references": 19.333333333333332,
+      "mean_citations": 7.333333333333333,
+      "mean_diversity": 0.13888888888888887,
+      "mean_actual_future_citations": 9.875,
+      "mean_predicted_future_citations": 10.312597274780273,
+      "ref_citation_correlation": 0.7302533254785462
+    },
+    "math.CO": {
+      "paper_count": 10,
+      "mean_references": 23.1,
+      "mean_citations": 3.0,
+      "mean_diversity": 0.15833333333333333,
+      "mean_actual_future_citations": 4.025,
+      "mean_predicted_future_citations": 4.08028507232666,
+      "ref_citation_correlation": 0.03439274093713593
+    }
+  }
+}
