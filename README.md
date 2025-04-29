@@ -20,7 +20,7 @@ The academic citation landscape follows a skewed distribution where papers strat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ARIT.git
+git clone https://github.com/akshatnamdeo/ARITCitationImpact.git
 cd ARIT
 ```
 
